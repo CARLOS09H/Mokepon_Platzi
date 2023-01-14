@@ -1,1 +1,1 @@
-alert("SI FUNCIONÓ");
+prompt("si esta funcionando")
